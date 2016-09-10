@@ -1,0 +1,2 @@
+/home/fung/Documents/stereo_calibration_auto/src/CMakeFiles/stereo_calibration_auto.dir
+/home/fung/Documents/stereo_calibration_auto/src/CMakeFiles/test_stereo_rectify.dir
